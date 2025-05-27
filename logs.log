@@ -1,0 +1,91 @@
+2025-05-25 12:55:48,103 Saving coin and currency lists
+2025-05-25 12:55:48,341 Saving coin and currency lists
+2025-05-25 12:55:48,442 Starting bot...
+2025-05-25 12:55:49,277 Restoring notifications...
+2025-05-25 12:55:49,278 Resuming notification 1
+2025-05-25 12:55:49,279 Resuming notification 2
+2025-05-25 12:55:49,279 Resuming notification 3
+2025-05-25 12:55:49,280 Resuming notification 4
+2025-05-25 12:55:49,281 Resuming notification 5
+2025-05-25 12:55:49,281 Polling...
+2025-05-25 12:55:49,393 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getMe "HTTP/1.1 200 OK"
+2025-05-25 12:55:49,416 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/deleteWebhook "HTTP/1.1 200 OK"
+2025-05-25 12:55:49,417 Application started
+2025-05-25 12:55:49,487 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:55:49,488 User 7150546126 (John Bitcoin) called command: help_command
+2025-05-25 12:55:49,547 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 12:56:02,523 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:56:15,556 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:56:28,581 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:56:41,612 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:56:49,813 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 12:56:54,649 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:57:07,681 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:57:20,706 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:57:33,742 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:57:46,779 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:57:50,765 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 12:57:59,814 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:58:12,844 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:58:25,871 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:58:38,904 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:58:50,299 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 12:58:51,941 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:59:04,967 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:59:18,006 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:59:31,031 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:59:44,059 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 12:59:50,446 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 12:59:57,099 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:00:10,132 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:00:23,166 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:00:36,199 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:00:49,238 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:00:50,784 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:01:02,267 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:01:15,297 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:01:28,327 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:01:41,367 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:01:51,207 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:01:54,398 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:02:07,432 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:02:20,463 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:02:33,495 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:02:46,532 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:02:51,410 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:02:59,564 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:03:12,601 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:03:25,630 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:03:38,658 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:03:51,621 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:03:51,687 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:04:04,716 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:04:17,742 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:04:30,777 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:04:43,826 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:04:51,550 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:04:56,858 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:05:09,911 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:05:22,942 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:05:25,976 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:05:25,977 User 7150546126 (John Bitcoin) called command: help_command
+2025-05-25 13:05:26,079 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:05:39,010 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:05:51,695 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:05:52,036 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:06:05,060 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:06:18,099 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:06:21,812 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:06:21,813 User 7150546126 (John Bitcoin) called command: delete_notifications_command
+2025-05-25 13:06:21,813 User 7150546126 (John Bitcoin) called command: my_notifications_command
+2025-05-25 13:06:21,908 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:06:21,968 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:06:26,694 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:06:26,695 User 7150546126 (John Bitcoin) called command: handle_delete_selection
+2025-05-25 13:06:26,914 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/sendMessage "HTTP/1.1 200 OK"
+2025-05-25 13:06:39,922 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:06:52,959 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:07:05,984 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:07:14,266 HTTP Request: POST https://api.telegram.org/bot8145193204:AAHtiVS05KEP6nkLwZfFRd5D2hv4NRzb4MM/getUpdates "HTTP/1.1 200 OK"
+2025-05-25 13:07:14,266 Application is stopping. This might take a moment.
+2025-05-25 13:07:14,266 Application.stop() complete
