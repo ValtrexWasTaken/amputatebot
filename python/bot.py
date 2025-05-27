@@ -333,4 +333,26 @@ class TelegramBot:
         app.run_polling(poll_interval=3)
 
 
-telegram_bot = TelegramBot()
+import os
+import threading
+from http.server import HTTPServer, BaseHTTPRequestHandler
+
+class HealthCheckHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        self.send_response(200)
+        self.end_headers()
+        self.wfile.write(b"OK")
+
+def run_health_server():
+    port = int(os.environ.get("PORT", 8080))
+    server = HTTPServer(("", port), HealthCheckHandler)
+    print(f"Health check server listening on port {port}")
+    server.serve_forever()
+
+if __name__ == "__main__":
+    # Start health check server in background
+    threading.Thread(target=run_health_server, daemon=True).start()
+
+    # Start your Telegram bot (blocking call)
+    telegram_bot = TelegramBot()
+
